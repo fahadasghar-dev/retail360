@@ -23,9 +23,13 @@ From the demo mart (sample data only).
 |---|---|
 | ![Dashboard](screens/dashboard.png) | ![POS](screens/pos.png) |
 
-| AI assistant | Store map |
+| AI assistant | Store map (shelf view) |
 |---|---|
 | ![AI assistant](screens/ai_assistant.png) | ![Store map](screens/store_map.png) |
+
+| Store map: refill list | Store map: refill shelves |
+|---|---|
+| ![Refill list](screens/store_map_refill_list.png) | ![Refill shelves](screens/store_map_refill_shelves.png) |
 
 ## What it does
 
